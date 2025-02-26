@@ -1,0 +1,29 @@
+name: fetch-repository-stats
+concurrency: fetch-repository-stats
+
+on:
+  schedule:
+    - cron: "0 23 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-ghrs-with-matrix:
+    name: repostats
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        # The repositories to generate reports for.
+        statsRepo:
+          - 'brian-team/brian2'
+          - 'brian-team/brian2tools'
+          - 'brian-team/brian2modelfitting'
+          - 'brian-team/brian2cuda'
+          - 'brian-team/brian2genn'
+      # Do not cancel&fail all remaining jobs upon first job failure.
+      fail-fast: false
+    steps:
+      - name: run-ghrs
+        uses: jgehrcke/github-repo-stats@v1.4.2
+        with:
+          repository: ${{ matrix.statsRepo }}
+          ghtoken: ${{ secrets.ghrs_github_api_token }}
