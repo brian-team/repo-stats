@@ -10,6 +10,8 @@ jobs:
   run-ghrs-with-matrix:
     name: repostats
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     strategy:
       matrix:
         # The repositories to generate reports for.
