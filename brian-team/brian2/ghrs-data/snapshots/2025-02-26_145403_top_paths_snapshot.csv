@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,165,125
+/brian-team/brian2/tree/master/examples,20,16
+/brian-team/brian2/issues,20,15
+/brian-team/brian2/tree/master/brian2,19,12
+/brian-team/brian2/blob/master/tutorials/1-intro-to-brian-neurons.ipynb,10,7
+/brian-team/brian2/blob/master/examples/synapses/STDP.py,7,6
+/brian-team/brian2/tree/master/brian2/core,7,5
+/brian-team/brian2/tree/master/brian2/codegen,7,3
+/brian-team/brian2/tree/master/tutorials,6,5
+/brian-team/brian2/blob/master/brian2/equations/equations.py,6,2
