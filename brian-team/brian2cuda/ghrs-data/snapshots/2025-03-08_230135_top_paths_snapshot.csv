@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,14,13
+/brian-team/brian2cuda/blob/835c978ad758bc0621e34344c1fb7b811ef8a118/brian2cuda/tests/features/cuda_configuration.py,7,1
+/brian-team/brian2cuda/tree/paper2022/brian2cuda/tools/benchmarking,5,2
+/brian-team/brian2cuda/tree/paper2022/brian2cuda,5,1
+/brian-team/brian2cuda/issues/45,3,3
+/brian-team/brian2cuda/issues/53,3,3
+/brian-team/brian2cuda/blob/paper2022/examples/stdp.py,3,2
+/brian-team/brian2cuda/tree/paper2022,3,1
+/brian-team/brian2cuda/tree/paper2022/brian2cuda/tools,3,1
+/brian-team/brian2cuda/tree/paper2022/brian2cuda/tools/benchmarking/paper_2022,2,1
