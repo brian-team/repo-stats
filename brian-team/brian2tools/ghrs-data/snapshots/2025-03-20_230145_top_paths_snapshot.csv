@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2tools,73,42
+/brian-team/brian2tools/issues,24,18
+/brian-team/brian2tools/tree/master/brian2tools,12,7
+/brian-team/brian2tools/tree/master/dev,7,4
+/brian-team/brian2tools/tree/master/brian2tools/baseexport,5,4
+/brian-team/brian2tools/issues/24,4,3
+/brian-team/brian2tools/tree/master/.github/workflows,4,3
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/collector.py,3,3
+/brian-team/brian2tools/blob/master/.github/workflows/python-test-conda.yml,3,3
+/brian-team/brian2tools/tree/master/brian2tools/mdexport,3,3
