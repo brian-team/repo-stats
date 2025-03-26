@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2tools,77,36
+/brian-team/brian2tools/issues,33,16
+/brian-team/brian2tools/tree/master/brian2tools,20,9
+/brian-team/brian2tools/pulls,12,7
+/brian-team/brian2tools/tree/master/brian2tools/baseexport,10,5
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/collector.py,6,5
+/brian-team/brian2tools/tree/master/brian2tools/mdexport,6,4
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/device.py,5,4
+/brian-team/brian2tools/tree/master/.github/workflows,5,4
+/brian-team/brian2tools/tree/master/brian2tools/nmlexport,5,3
