@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,24,14
+/brian-team/brian2cuda/issues/225,5,4
+/brian-team/brian2cuda/issues,5,3
+/brian-team/brian2cuda/tree/master/brian2cuda,4,3
+/brian-team/brian2cuda/tree/master/examples,2,2
+/brian-team/brian2cuda/blob/835c978ad758bc0621e34344c1fb7b811ef8a118/brian2cuda/tests/features/cuda_configuration.py,2,1
+/brian-team/brian2cuda/blob/master/README.md,2,1
+/brian-team/brian2cuda/blob/master/brian2cuda/brianlib/cuda_utils.h,1,1
+/brian-team/brian2cuda/blob/master/brian2cuda/brianlib/cudaVector.h,1,1
+/brian-team/brian2cuda/blob/master/brian2cuda/brianlib/curand_buffer.h,1,1
