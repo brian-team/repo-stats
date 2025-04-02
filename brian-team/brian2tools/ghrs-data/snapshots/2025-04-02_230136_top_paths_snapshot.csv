@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2tools,61,35
+/brian-team/brian2tools/tree/master/brian2tools,30,10
+/brian-team/brian2tools/issues,25,13
+/brian-team/brian2tools/tree/master/brian2tools/baseexport,23,3
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/device.py,18,3
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/collector.py,13,3
+/brian-team/brian2tools/pulls,9,6
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/__init__.py,6,3
+/brian-team/brian2tools/blob/master/setup.py,5,4
+/brian-team/brian2tools/tree/master/brian2tools/mdexport,4,2
