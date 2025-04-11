@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,345,177
+/brian-team/brian2/pulls,120,12
+/brian-team/brian2/pull/1602,88,2
+/brian-team/brian2/issues,85,24
+/brian-team/brian2/tree/master/brian2,68,28
+/brian-team/brian2/pull/1602/commits,48,1
+/brian-team/brian2/pull/1609,46,2
+/brian-team/brian2/tree/master/brian2/core,28,7
+/brian-team/brian2/blob/master/tutorials/1-intro-to-brian-neurons.ipynb,23,11
+/brian-team/brian2/blob/master/tutorials/3-intro-to-brian-simulations.ipynb,23,9
