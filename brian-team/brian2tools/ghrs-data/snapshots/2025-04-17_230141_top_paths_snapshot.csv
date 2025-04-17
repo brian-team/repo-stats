@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2tools,31,25
+/brian-team/brian2tools/tree/master/brian2tools,17,5
+/brian-team/brian2tools/tree/master/brian2tools/baseexport,9,4
+/brian-team/brian2tools/issues,6,5
+/brian-team/brian2tools/tree/master/dev,6,2
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/collector.py,5,3
+/brian-team/brian2tools/tree/master/brian2tools/mdexport,5,2
+/brian-team/brian2tools/blob/master/brian2tools/baseexport/device.py,4,3
+/brian-team/brian2tools/tree/master/brian2tools/nmlimport,4,2
+/brian-team/brian2tools/blob/master/brian2tools/mdexport/expander.py,3,2
