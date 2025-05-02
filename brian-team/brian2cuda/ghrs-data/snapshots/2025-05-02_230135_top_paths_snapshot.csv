@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,22,14
+/brian-team/brian2cuda/tree/master/examples,12,1
+/brian-team/brian2cuda/tree/master,8,3
+/brian-team/brian2cuda/issues,6,3
+/brian-team/brian2cuda/blob/master/examples/stdp.py,6,2
+/brian-team/brian2cuda/blob/master/examples/utils.py,5,2
+/brian-team/brian2cuda/tree/master/brian2cuda,5,2
+/brian-team/brian2cuda/blob/master/docs_sphinx/introduction/index.rst,4,3
+/brian-team/brian2cuda/tree/master/examples/compartmental,3,1
+/brian-team/brian2cuda/blob/master/brian2cuda/templates/ratemonitor.cu,2,1
