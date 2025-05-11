@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,32,12
+/brian-team/brian2cuda/issues,8,3
+/brian-team/brian2cuda/issues/225,8,3
+/brian-team/brian2cuda/tree/master/brian2cuda,3,1
+/brian-team/brian2cuda/tree/master,2,2
+/brian-team/brian2cuda/blob/master/brian2cuda/templates/ratemonitor.cu,2,1
+/brian-team/brian2cuda/blob/master/docs_sphinx/introduction/index.rst,2,1
+/brian-team/brian2cuda/blob/73053584d0135d3f7e1a1486b59c2559efea6c94/brian2cuda/tests/test_random_number_generation.py,1,1
+/brian-team/brian2cuda/blob/master/brian2cuda/binomial.py,1,1
+/brian-team/brian2cuda/blob/master/brian2cuda/codeobject.py,1,1
