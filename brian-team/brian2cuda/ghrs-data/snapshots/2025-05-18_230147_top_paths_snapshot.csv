@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,18,10
+/brian-team/brian2cuda/issues/225,9,3
+/brian-team/brian2cuda/issues,5,2
+/brian-team/brian2cuda/issues/53,3,2
+/brian-team/brian2cuda/issues/301,3,1
+/brian-team/brian2cuda/issues/309,3,1
+/brian-team/brian2cuda/issues/55,2,1
+/brian-team/brian2cuda/blob/73053584d0135d3f7e1a1486b59c2559efea6c94/brian2cuda/tests/test_random_number_generation.py,1,1
+/brian-team/brian2cuda/blob/master/examples/brunelhakim.py,1,1
+/brian-team/brian2cuda/blob/master/examples/stdp.py,1,1
