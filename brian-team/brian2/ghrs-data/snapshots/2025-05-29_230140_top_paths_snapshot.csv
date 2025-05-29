@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,145,118
+/brian-team/brian2/tree/master/brian2,18,11
+/brian-team/brian2/issues,13,11
+/brian-team/brian2/tree/master/examples,13,9
+/brian-team/brian2/blob/master/brian2/devices/cpp_standalone/device.py,7,2
+/brian-team/brian2/blob/master/brian2/spatialneuron/morphology.py,7,1
+/brian-team/brian2/tree/master,6,4
+/brian-team/brian2/blob/master/examples/compartmental/bipolar_cell.py,6,1
+/brian-team/brian2/tree/master/brian2/core,5,4
+/brian-team/brian2/blob/master/brian2/core/network.py,4,4
