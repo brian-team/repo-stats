@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,13,11
+/brian-team/brian2cuda/issues/225,3,2
+/brian-team/brian2cuda/tree/master/examples,3,2
+/brian-team/brian2cuda/blob/835c978ad758bc0621e34344c1fb7b811ef8a118/brian2cuda/tests/features/cuda_configuration.py,2,2
+/brian-team/brian2cuda/issues/53,2,2
+/brian-team/brian2cuda/tree/835c978ad758bc0621e34344c1fb7b811ef8a118/brian2cuda/tests,2,1
+/brian-team/brian2cuda/blob/835c978ad758bc0621e34344c1fb7b811ef8a118/brian2cuda/tests/test_cuda_standalone.py,1,1
+/brian-team/brian2cuda/blob/835c978ad758bc0621e34344c1fb7b811ef8a118/examples/run_examples.sh,1,1
+/brian-team/brian2cuda/blob/master/examples/run_examples.sh,1,1
+/brian-team/brian2cuda/blob/master/examples/stdp.py,1,1
