@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,12,8
+/brian-team/brian2cuda/tree/master/brian2cuda,2,2
+/brian-team/brian2cuda/blob/master/docs_sphinx/introduction/index.rst,2,1
+/brian-team/brian2cuda/blob/master/brian2cuda/tools/remote_run_scripts/_load_remote_config.sh,1,1
+/brian-team/brian2cuda/blob/master/brian2cuda/tools/run_examples/run_brian2_examples.py,1,1
+/brian-team/brian2cuda/blob/master/docs_sphinx/index.rst,1,1
+/brian-team/brian2cuda/issues,1,1
+/brian-team/brian2cuda/issues/225,1,1
+/brian-team/brian2cuda/issues/309,1,1
+/brian-team/brian2cuda/issues/53,1,1
