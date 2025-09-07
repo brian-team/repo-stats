@@ -1,0 +1,6 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,2,2
+/brian-team/brian2cuda/blob/master/dev/curand_rng_performance/host_api_host_vs_device/cuRAND_device_host_buffersize_rng_performance.ipynb,2,1
+/brian-team/brian2cuda/blob/master/dev/curand_rng_performance/host_api_host_vs_device/README,1,1
+/brian-team/brian2cuda/blob/master/dev/curand_rng_performance/host_api_host_vs_device/test_curand_buffer_size.cu,1,1
+/brian-team/brian2cuda/tree/master/.github/workflows,1,1
