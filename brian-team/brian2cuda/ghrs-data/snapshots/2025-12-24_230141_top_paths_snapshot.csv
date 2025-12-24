@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,17,15
+/brian-team/brian2cuda/issues,7,3
+/brian-team/brian2cuda/issues/309,5,2
+/brian-team/brian2cuda/issues/65,4,3
+/brian-team/brian2cuda/issues/179,3,2
+/brian-team/brian2cuda/commit/fa1a3d0944d48daef70d0354fe9da6d51d4e3b86,2,2
+/brian-team/brian2cuda/blob/1c0e0bfff49f2f8d939df85865d3df02473c6ed7/brian2cuda/tests/test_cuda_generator.py,1,1
+/brian-team/brian2cuda/blob/3fa2743e150d5b36d1feefe648e1ae0c1bbf3327/README.md,1,1
+/brian-team/brian2cuda/blob/85776634421d5ae53057f17bde77985d890efaeb/brian2cuda/tools/test_suite/run_test_suite.py,1,1
+/brian-team/brian2cuda/commit/f418d2c82a72da5e07f06765c1c042422bdd93e6,1,1
