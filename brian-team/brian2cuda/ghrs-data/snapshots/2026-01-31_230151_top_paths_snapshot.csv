@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,35,23
+/brian-team/brian2cuda/issues,6,4
+/brian-team/brian2cuda/issues/53,4,4
+/brian-team/brian2cuda/tree/paper2022/brian2cuda/tools/benchmarking,3,2
+/brian-team/brian2cuda/tree/master/examples,2,2
+/brian-team/brian2cuda/issues/45,2,1
+/brian-team/brian2cuda/actions,1,1
+/brian-team/brian2cuda/blob/master/examples/stdp.py,1,1
+/brian-team/brian2cuda/blob/paper2022/brian2cuda/examples/cobahh.py,1,1
+/brian-team/brian2cuda/blob/paper2022/brian2cuda/tools/benchmarking/run_benchmark_suite.py,1,1
