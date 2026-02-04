@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,34,24
+/brian-team/brian2cuda/issues,6,4
+/brian-team/brian2cuda/issues/53,4,4
+/brian-team/brian2cuda/tree/paper2022/brian2cuda/tools/benchmarking,3,2
+/brian-team/brian2cuda/tree/master/examples,2,2
+/brian-team/brian2cuda/blob/master/docs_sphinx/introduction/install.rst,1,1
+/brian-team/brian2cuda/blob/master/examples/stdp.py,1,1
+/brian-team/brian2cuda/blob/paper2022/brian2cuda/examples/cobahh.py,1,1
+/brian-team/brian2cuda/blob/paper2022/brian2cuda/tools/benchmarking/run_benchmark_suite.py,1,1
+/brian-team/brian2cuda/commits/master,1,1
