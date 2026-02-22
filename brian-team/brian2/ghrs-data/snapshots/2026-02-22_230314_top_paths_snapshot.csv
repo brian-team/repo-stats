@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,222,128
+/brian-team/brian2/issues,83,33
+/brian-team/brian2/pulls,74,12
+/brian-team/brian2/issues/1753,24,13
+/brian-team/brian2/blob/master/examples/frompapers/Clopath_et_al_2010_homeostasis.py,24,8
+/brian-team/brian2/pull/1752,24,3
+/brian-team/brian2/pull/1766,24,3
+/brian-team/brian2/pull/1769,15,3
+/brian-team/brian2/blob/master/tutorials/1-intro-to-brian-neurons.ipynb,14,9
+/brian-team/brian2/pull/1752/changes,14,1
