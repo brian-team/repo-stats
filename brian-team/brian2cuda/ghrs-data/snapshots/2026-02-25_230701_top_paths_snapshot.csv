@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,21,18
+/brian-team/brian2cuda/issues,4,1
+/brian-team/brian2cuda/issues/45,3,3
+/brian-team/brian2cuda/tree/master/brian2cuda,2,2
+/brian-team/brian2cuda/tree/master/dev/benchmarks_old/results_2017_11_30_cuba_stdp,2,1
+/brian-team/brian2cuda/tree/master/dev/benchmarks_old/results_2017_11_30_cuba_stdp/cuba_stdp_profiled,2,1
+/brian-team/brian2cuda/blob/master/CITATION.cff,1,1
+/brian-team/brian2cuda/blob/master/CODE_OF_CONDUCT.md,1,1
+/brian-team/brian2cuda/blob/master/MANIFEST.in,1,1
+/brian-team/brian2cuda/blob/master/brian2cuda/brianlib/clocks.h,1,1
