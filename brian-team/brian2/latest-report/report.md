@@ -1,5 +1,5 @@
 % Statistics for brian-team/brian2
-% Generated for [brian-team/brian2](https://github.com/brian-team/brian2) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-03-09 09:33 UTC.
+% Generated for [brian-team/brian2](https://github.com/brian-team/brian2) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-03-09 09:37 UTC.
 
 
 ## Views
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `brian2.readthedocs.io`, 0
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pulls`, 04: `/tree/master/brian2`, 05: `/tree/master/examples`, 06: `/issues/1777`, 07: `/issues/1753`, 08: `/blob/master/tutorials/1-intro-to-brian-neurons.ipynb`, 09: `/labels/easy`, 10: `/issues/1770`, 11: `/blob/master/README.md`, 12: `/tree/master/tutorials`, 13: `/blob/master/pyproject.toml`, 14: `/blob/master/examples/frompapers/Clopath_et_al_2010_homeostasis.py`, 15: `/tree/master`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pulls`, 04: `/tree/master/brian2`, 05: `/tree/master/examples`, 06: `/issues/1777`, 07: `/issues/1753`, 08: `/blob/master/tutorials/1-intro-to-brian-neurons.ipynb`, 09: `/labels/easy`, 10: `/issues/1770`, 11: `/blob/master/README.md`, 12: `/blob/master/pyproject.toml`, 13: `/blob/master/examples/frompapers/Clopath_et_al_2010_homeostasis.py`, 14: `/tree/master/tutorials`, 15: `/tree/master`
 
 
 <script type="text/javascript">
