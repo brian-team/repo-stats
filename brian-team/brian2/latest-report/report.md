@@ -1,5 +1,5 @@
 % Statistics for brian-team/brian2
-% Generated for [brian-team/brian2](https://github.com/brian-team/brian2) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-04-08 09:17 UTC.
+% Generated for [brian-team/brian2](https://github.com/brian-team/brian2) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2026-04-08 23:11 UTC.
 
 
 ## Views
@@ -79,7 +79,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `neurostars.org`, 04: `brian2.readthedocs.io`, 05: `theregister.com`, 06: `l.threads.com`, 07: `briansimulator.org`, 08: `chatgpt.com`, 09: `brian.discourse.group`, 10: `Bing`, 11: `DuckDuckGo`, 12: `open-neuromorphic.org`, 13: `docs.google.com`, 14: `pypi.org`, 15: `cn.bing.com`
+Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `neurostars.org`, 04: `brian2.readthedocs.io`, 05: `theregister.com`, 06: `l.threads.com`, 07: `briansimulator.org`, 08: `Bing`, 09: `chatgpt.com`, 10: `brian.discourse.group`, 11: `DuckDuckGo`, 12: `open-neuromorphic.org`, 13: `docs.google.com`, 14: `cn.bing.com`, 15: `pypi.org`
 
 
 
@@ -90,7 +90,7 @@ Top 15 referrers: 01: `Google`, 02: `github.com`, 03: `neurostars.org`, 04: `bri
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pulls`, 04: `/tree/master/brian2`, 05: `/issues/1777`, 06: `/pull/1785`, 07: `/issues/1753`, 08: `/tree/master/examples`, 09: `/pull/1786`, 10: `/issues/1770`, 11: `/blob/master/tutorials/1-intro-to-brian-neurons.ipynb`, 12: `/labels/easy`, 13: `/pull/1787`, 14: `/issues/40`, 15: `/blob/master/README.md`
+Top 15 paths: 01: `/`, 02: `/issues`, 03: `/pulls`, 04: `/tree/master/brian2`, 05: `/issues/1777`, 06: `/pull/1785`, 07: `/issues/1753`, 08: `/tree/master/examples`, 09: `/pull/1786`, 10: `/issues/1770`, 11: `/blob/master/tutorials/1-intro-to-brian-neurons.ipynb`, 12: `/issues/40`, 13: `/labels/easy`, 14: `/pull/1787`, 15: `/blob/master/README.md`
 
 
 <script type="text/javascript">
