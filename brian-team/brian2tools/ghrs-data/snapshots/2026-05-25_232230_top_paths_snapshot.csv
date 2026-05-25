@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2tools,6,2
+/brian-team/brian2tools/blob/e3ae285c5cee0f03444b7a1a3211add99878db46/docs_sphinx/user/plotting.rst,5,1
+/brian-team/brian2tools/issues,4,4
+/brian-team/brian2tools/branches,2,1
+/brian-team/brian2tools/fork,2,1
+/brian-team/brian2tools/branches/active,1,1
+/brian-team/brian2tools/branches/all,1,1
+/brian-team/brian2tools/branches/stale,1,1
+/brian-team/brian2tools/commit/bcf2426a8bd14e82e06f238c47ad47cc5afc4ca0,1,1
+/brian-team/brian2tools/compare/master...vanshapple:fix-numpy2-compatibility,1,1
