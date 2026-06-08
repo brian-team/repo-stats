@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,145,101
+/brian-team/brian2/issues,57,46
+/brian-team/brian2/tree/master/brian2,15,11
+/brian-team/brian2/pulls,13,8
+/brian-team/brian2/pull/890,9,6
+/brian-team/brian2/pull/1769,7,1
+/brian-team/brian2/blob/master/tutorials/1-intro-to-brian-neurons.ipynb,6,6
+/brian-team/brian2/blob/master/brian2/synapses/synapses.py,5,2
+/brian-team/brian2/blob/cd889d9ab1499a43f73508fc79d2bac7e43ba47d/examples/frompapers/Diehl_Cook_2015.py,4,3
+/brian-team/brian2/pull/600,4,3
