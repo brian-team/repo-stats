@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,187,123
+/brian-team/brian2/issues,84,29
+/brian-team/brian2/blob/master/brian2/groups/neurongroup.py,46,19
+/brian-team/brian2/tree/master/brian2,43,26
+/brian-team/brian2/pulls,25,13
+/brian-team/brian2/tree/master/brian2/groups,21,9
+/brian-team/brian2/tree/master/examples,10,7
+/brian-team/brian2/tree/master,10,6
+/brian-team/brian2/blob/master/tutorials/1-intro-to-brian-neurons.ipynb,9,6
+/brian-team/brian2/blob/master/brian2/equations/equations.py,9,4
