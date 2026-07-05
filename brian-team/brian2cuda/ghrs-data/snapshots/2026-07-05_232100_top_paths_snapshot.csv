@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2cuda,46,22
+/brian-team/brian2cuda/pulls,31,6
+/brian-team/brian2cuda/pull/328,20,4
+/brian-team/brian2cuda/tree/master/brian2cuda,9,1
+/brian-team/brian2cuda/tree/master/brian2cuda/templates,9,1
+/brian-team/brian2cuda/pull/327,8,5
+/brian-team/brian2cuda/issues,7,4
+/brian-team/brian2cuda/actions,6,2
+/brian-team/brian2cuda/actions/workflows/platform_build.yml,6,1
+/brian-team/brian2cuda/compare/master...issue179-compilation-speedup,6,1
