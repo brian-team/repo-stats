@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,211,141
+/brian-team/brian2/issues,31,17
+/brian-team/brian2/pulls,24,5
+/brian-team/brian2/pull/1854,17,3
+/brian-team/brian2/tree/master/brian2,14,9
+/brian-team/brian2/blob/master/README.rst,11,11
+/brian-team/brian2/pull/1854/changes,10,1
+/brian-team/brian2/tree/master/examples,9,6
+/brian-team/brian2/pull/1852,9,1
+/brian-team/brian2/actions/workflows/publish.yml,7,7
