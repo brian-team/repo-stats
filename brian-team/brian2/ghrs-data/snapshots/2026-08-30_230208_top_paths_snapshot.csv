@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/brian-team/brian2,245,169
+/brian-team/brian2/issues,51,16
+/brian-team/brian2/pulls,27,15
+/brian-team/brian2/tree/master/brian2,25,10
+/brian-team/brian2/pull/1769,19,4
+/brian-team/brian2/tree/master/brian2/codegen,12,5
+/brian-team/brian2/tree/master/brian2/codegen/generators,8,2
+/brian-team/brian2/tree/master,7,5
+/brian-team/brian2/blob/finalize_functions/brian2/codegen/languages/cpp_lang.py,6,6
+/brian-team/brian2/blob/master/docs_sphinx/developer/notes/refractoriness_and_linearity.rst,6,6
